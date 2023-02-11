@@ -14,5 +14,6 @@
 int main(){
 
     std::cout <<"Hello c mouadh"<<std::endl;
-    /*Please Write Hello c nour*/
+    std::cout <<"Hello c nour"<<std::endl;
+    
 }
